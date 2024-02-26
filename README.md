@@ -6,7 +6,8 @@ The Multimodal AI Assistant is an advanced tool designed to bridge the gap betwe
 
 Access the Multimodal AI Assistant here: [MultimodalAIAssistant](your-app-link.com)
 
-![llava_whisper](https://github.com/TVR28/Multimodal-AI-Assistant/assets/91713140/4f0b363a-db95-42b5-b84a-307d1d86765d)
+![llava_whisper](https://github.com/TVR28/Multimodal-AI-Assistant/assets/91713140/1b4923fe-269a-4396-9a00-9d890b0bb13c)
+
 
 
 ## Table of Contents
