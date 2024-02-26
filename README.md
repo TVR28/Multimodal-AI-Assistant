@@ -36,8 +36,8 @@ Follow these steps to install and set up the Multimodal AI Assistant:
 1. Clone the repository to your local machine (use the actual repository link):
 
     ```bash
-    git clone https://github.com/your-username/multimodal-ai-assistant
-    cd multimodal-ai-assistant
+    git clone https://github.com/TVR28/Multimodal-AI-Assistant.git
+    cd Multimodal-AI-Assistant
     ```
 
 2. Install the required Python libraries:
@@ -54,6 +54,7 @@ To get started, run the application script after installation:
 python multimodal_ai_assistant.py
 ```
 
+or run the google colab  `Multimodal_AI_Assistant_Llava7B.ipynb` notebook with a T4 GPU.
 ## Usage
 
 The Multimodal AI Assistant provides an interactive interface for users to engage with AI through voice and images:
