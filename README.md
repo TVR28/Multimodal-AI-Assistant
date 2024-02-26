@@ -2,7 +2,7 @@
 
 ![image](https://path-to-your-image.png)
 
-The Multimodal AI Assistant is an advanced tool designed to bridge the gap between human and computer interaction. Utilizing the power of `**OpenAI's Whisper**` and `**LLaVa-7B**` models, this assistant provides a seamless experience, processing audio and visual inputs to deliver insightful and context-aware responses. This guide will help you set up and explore the full capabilities of the Multimodal AI Assistant.
+The Multimodal AI Assistant is an advanced tool designed to bridge the gap between human and computer interaction. Utilizing the power of **`OpenAI's Whisper`** and **`LLaVa-7B`** models, this assistant provides a seamless experience, processing audio and visual inputs to deliver insightful and context-aware responses. This guide will help you set up and explore the full capabilities of the Multimodal AI Assistant.
 
 Access the Multimodal AI Assistant here: [MultimodalAIAssistant](your-app-link.com)
 
