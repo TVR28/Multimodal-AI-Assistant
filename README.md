@@ -1,12 +1,12 @@
 # Multimodal AI Assistant
 
-![image](app_img.png)
+![Screenshot (611)](https://github.com/TVR28/Multimodal-AI-Assistant/assets/91713140/3b35b92a-3e10-47bc-a12f-8de392b17698)
 
 The Multimodal AI Assistant is an advanced tool designed to bridge the gap between human and computer interaction. Utilizing the power of **`OpenAI's Whisper`** and **`LLaVa-7B`** models, this assistant provides a seamless experience, processing audio and visual inputs to deliver insightful and context-aware responses. This guide will help you set up and explore the full capabilities of the Multimodal AI Assistant.
 
 Access the Multimodal AI Assistant here: [MultimodalAIAssistant](your-app-link.com)
 
-![Screenshot (611)](https://github.com/TVR28/Multimodal-AI-Assistant/assets/91713140/3b35b92a-3e10-47bc-a12f-8de392b17698)
+
 
 
 ## Table of Contents
@@ -19,6 +19,7 @@ Access the Multimodal AI Assistant here: [MultimodalAIAssistant](your-app-link.c
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
+- [Experimental Results](#experimental-results)
 - [License](#license)
 
 ## Prerequisites
@@ -72,6 +73,15 @@ The Multimodal AI Assistant provides an interactive interface for users to engag
 - **Image to Text Description**: Generates descriptive text for images using the LLaVa model.
 - **Text to Speech Response**: Converts AI-generated text into audible speech.
 - **Video Frame Extraction**: Captures frames from live video for analysis.
+
+##Experimental Results:
+
+![Screenshot (614)](https://github.com/TVR28/Multimodal-AI-Assistant/assets/91713140/38a84c01-c460-4bf3-a7ae-e4be6561ca27)
+
+![Screenshot (615)](https://github.com/TVR28/Multimodal-AI-Assistant/assets/91713140/10ea607e-45cb-4389-b9ae-44aa7abb1f43)
+
+![Screenshot (616)](https://github.com/TVR28/Multimodal-AI-Assistant/assets/91713140/2d7c9580-8b8e-466c-92ea-4f6e7c095c5c)
+
 
 ## Contributing
 
