@@ -74,7 +74,7 @@ The Multimodal AI Assistant provides an interactive interface for users to engag
 - **Text to Speech Response**: Converts AI-generated text into audible speech.
 - **Video Frame Extraction**: Captures frames from live video for analysis.
 
-##Experimental Results:
+## Experimental Results:
 
 ![Screenshot (614)](https://github.com/TVR28/Multimodal-AI-Assistant/assets/91713140/38a84c01-c460-4bf3-a7ae-e4be6561ca27)
 
