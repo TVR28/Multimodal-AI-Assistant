@@ -4,7 +4,7 @@
 
 The Multimodal AI Assistant is an advanced tool designed to bridge the gap between human and computer interaction. Utilizing the power of **`OpenAI's Whisper`** and **`LLaVa-7B`** models, this assistant provides a seamless experience, processing audio and visual inputs to deliver insightful and context-aware responses. This guide will help you set up and explore the full capabilities of the Multimodal AI Assistant.
 
-Access the Multimodal AI Assistant here: [MultimodalAIAssistant](your-app-link.com)
+Access the Multimodal AI Assistant here: [MultimodalAIAssistant]([your-app-link.com](https://colab.research.google.com/drive/1EObkOG0Cpzm_6i0v1ryctEEfNlpX60cN?usp=sharing))
 
 ![llava_whisper](https://github.com/TVR28/Multimodal-AI-Assistant/assets/91713140/14beee9e-2679-4860-abf8-88fba7eda78f)
 
