@@ -58,15 +58,15 @@ To get started, run the application script after installation:
 python multimodal_ai_assistant.py
 ```
 
-or run the google colab  `Multimodal_AI_Assistant_Llava7B.ipynb` notebook with a T4 GPU.
+or run the google colab  `Multimodal_AI_Assistant_Llava7B.ipynb` notebook with a T4 GPU to test the working.
 ## Usage
 
 The Multimodal AI Assistant provides an interactive interface for users to engage with AI through voice and images:
 
 - **Voice Interaction**: Record your query directly through the microphone input.
 - **Image Analysis**: Upload or capture an image to receive a detailed description of its content.
-- **Video Frame Analysis**: Capture live video and the assistant will analyze specific frames to answer your questions.
-
+- **Video Frame Analysis**: Capture live video and the assistant will analyze specific frames to answer your questions (Updating..).
+- **RAG system**: The Assistant will be capable of retrieveing information from any documents(multiple) like pdf, txt, csv and more. (Updating)
 ## Features
 
 - **Voice to Text Transcription**: Transcribes user voice input with Whisper.
